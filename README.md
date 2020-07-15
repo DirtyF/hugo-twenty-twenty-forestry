@@ -1,11 +1,10 @@
 # Hugo Twenty Twenty Forestry starter
 
-[Kross Hugo theme](https://github.com/themefisher/twenty-twenty-hugo) is developed by Themefisher.
+[Twenty Twenty theme](https://github.com/themefisher/twenty-twenty-hugo) is developed by Themefisher.
 
 [Live Preview](https://hugo-twenty-twenty-forestry.vercel.app/)
 
-![Homepage preview](images/homepage.png)
-
+![Homepage preview](./images/homepage.png)
 
 ## Requirements
 
@@ -16,7 +15,7 @@
 
 [![import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=DirtyF/hugo-twenty-twenty-forestry&engine=hugo&version=0.74.1)
 
-![Forestry admin interface](images/forestry-admin.png)
+![Forestry admin interface](./images/forestry-admin.png)
 
 This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your repository in Forestry](https://app.forestry.io/quick-start?repo=DirtyF/hugo-twenty-twenty-forestry&engine=hugo&version=0.74.1) and you'll be able to edit and preview your site ✨. \
 
