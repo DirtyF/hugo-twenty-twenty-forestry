@@ -1,9 +1,10 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "/"
 title = "Twenty Twenty Hugo for Forestry"
-theme = "twenty-twenty"
 languageName = "En"
 languageCode = "en-us"
+
+theme = "github.com/themefisher/twenty-twenty-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
